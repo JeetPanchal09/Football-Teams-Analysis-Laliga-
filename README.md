@@ -3,7 +3,7 @@
 
 I have done some anlaysis on football teams of laliga.
 
-Laliga.csv file contains the data.
+Laliga.csv file  contains the data.
 
 
 
